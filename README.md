@@ -11,4 +11,4 @@ An interactive Quiz Game built using HTML, CSS, and JavaScript. The application 
 7.User can restart the quiz.
 ## Output
 The application successfully displays questions, evaluates user responses, and shows the final score with an option to restart the quiz.
-##Live Demo
+## Live Demo
