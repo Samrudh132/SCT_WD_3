@@ -6,3 +6,4 @@ An interactive Quiz Game built using HTML, CSS, and JavaScript. The application 
 * CSS
 * JavaScript
 ## Live Demo
+file:///C:/Users/SAMRUDH%20DESAI/OneDrive/Desktop/SCT_WD_3/index.html
